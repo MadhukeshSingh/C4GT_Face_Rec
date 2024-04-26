@@ -1,23 +1,19 @@
 
-# Face Recognition Attendance System 
+# Face Recognition Teacher Attendance System
 
 ## Description
-Software for Industry/Colleges , where they can track the attendence of their employee/students with the help of face recognition using OpenCV library.
+Software for Govt Schools and Industry/Colleges , where they can track the attendence of their  Teachers, employee/students with the help of face recognition using OpenCV library.
 
 ## Features
-- Adding a New User
-![image](https://github.com/)
+- UI
+![image](https://github.com/MadhukeshSingh/C4GT_Face_Rec/blob/main/static/images/Picture1.png)
 
--	Capturing Live Images
-![image](https://github.com/)
-
-
--	To understand the Total number of Users in Database
-![image](https://github.com/)
+-	Adding a user 
+![image](https://github.com/MadhukeshSingh/C4GT_Face_Rec/blob/main/static/images/Picture2.png)
 
 -	Click on Take Attendance 
-![image](https://github.com/)
+![image](https://github.com/MadhukeshSingh/C4GT_Face_Rec/blob/main/static/images/Picture3.png)
 
 -	Attendance of Users displayed
- ![image](https://github.com/)
+ ![image](https://github.com/MadhukeshSingh/C4GT_Face_Rec/blob/main/static/images/Picture4.png)
 
